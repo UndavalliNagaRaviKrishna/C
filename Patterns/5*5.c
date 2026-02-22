@@ -1,4 +1,4 @@
-// Logic to print star based on user required rows and columns same rows and columns
+// Logic to print star
 
 #include <stdio.h>
 
